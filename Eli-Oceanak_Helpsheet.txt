@@ -1,0 +1,16 @@
+Eli Oceanak
+COSC 2150 Section 10
+Lab 03
+
+I have imported operator. it contains the operator class, which is the class of operators.
+
+Other general purpose containers in python are sets and tuples.
+
+Lab 04
+
+You can declare a struct by just using this syntax:
+
+struct{
+blah blah;
+blah bah;
+};
